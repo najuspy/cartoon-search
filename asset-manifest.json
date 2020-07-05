@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cartoon-search/static/css/main.18718dc8.chunk.css",
+    "main.js": "/cartoon-search/static/js/main.aef0d08c.chunk.js",
+    "main.js.map": "/cartoon-search/static/js/main.aef0d08c.chunk.js.map",
+    "runtime-main.js": "/cartoon-search/static/js/runtime-main.7b94fa26.js",
+    "runtime-main.js.map": "/cartoon-search/static/js/runtime-main.7b94fa26.js.map",
+    "static/js/2.b6f2604e.chunk.js": "/cartoon-search/static/js/2.b6f2604e.chunk.js",
+    "static/js/2.b6f2604e.chunk.js.map": "/cartoon-search/static/js/2.b6f2604e.chunk.js.map",
+    "index.html": "/cartoon-search/index.html",
+    "precache-manifest.e46f87f70272ef45f2da0eec7be763b8.js": "/cartoon-search/precache-manifest.e46f87f70272ef45f2da0eec7be763b8.js",
+    "service-worker.js": "/cartoon-search/service-worker.js",
+    "static/css/main.18718dc8.chunk.css.map": "/cartoon-search/static/css/main.18718dc8.chunk.css.map",
+    "static/js/2.b6f2604e.chunk.js.LICENSE.txt": "/cartoon-search/static/js/2.b6f2604e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b94fa26.js",
+    "static/js/2.b6f2604e.chunk.js",
+    "static/css/main.18718dc8.chunk.css",
+    "static/js/main.aef0d08c.chunk.js"
+  ]
+}
